@@ -1,0 +1,176 @@
+{{ define "main" }}
+<main class="homepage container py-6">
+    <!-- Hero -->
+    <div class="hero row">
+        <div class="col position-relative py-lg-7{{ if not .Site.Params.homepageImage }} py-7{{ else }} pb-5{{ end }}">
+            {{- with .Site.Params.homepageImage -}}
+            <div class="homepage-image">
+                <img src="{{ . | relLangURL }}" class="img-fluid rounded">
+            </div>
+            {{- end -}}
+
+            <h1 class="display-4" style="font-family: 'Indie Flower', cursive;">{{ .Site.Title }}</h1>
+            {{- with .Site.Params.description -}}
+            <h3 class="font-weight-normal" style="font-family: 'Indie Flower', cursive;">{{ . | safeHTML }}</h3>
+            {{- end -}}
+        </div>
+    </div>
+
+    <!-- Latest article -->
+    {{- range first 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) -}}
+    {{ $page := . }}
+    <div class="latest row py-lg-5">
+        <div class="col-lg-6 mb-3">
+            {{- with $page.Params.images -}}
+            {{- $images := . -}}
+            {{- with $page.Site.GetPage "section" "images" -}}
+            {{- with .Resources.GetMatch (strings.TrimPrefix "/images/" (index $images 0)) -}}
+            {{- $image := .Fill "700x450" -}}
+            <a href="{{ $page.RelPermalink }}" class="d-block">
+                <img data-src="{{ $image.RelPermalink }}" class="img-fluid rounded" alt="{{ $page.Title }}">
+            </a>
+            {{- end -}}
+            {{- end -}}
+            {{- end -}}
+        </div>
+        <div class="col-lg-6 mb-3">
+            <h5 class="created text-muted text-uppercase font-weight-bold">{{ $page.Date.Format "January 2, 2006" }}
+            </h5>
+            <h2><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h2>
+
+            <div class="content">
+                {{ $page.Summary }}
+            </div>
+        </div>
+    </div>
+    {{- end -}}
+
+
+
+
+
+
+    <!-- Articles -->
+    <div class="articles row row-cols-1 row-cols-lg-3">
+        {{ range after 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+        <div class="col mb-3">
+            {{ .Render "card" }}
+        </div>
+        {{ end }}
+    </div>
+    <hr>
+    <div id="newContainer" style="background-color: lightslategrey;">
+        <div>
+            <div class="newsletter-subscribe" id="subscribe">
+                <div class="container" id="container">
+                    <div class="intro">
+                        <h2 class="text-center">Subscribe to the Newsletter</h2>
+                        <p class="text-center">Subscribe so you can receive updates and notifications every time we
+                            upload a new article. </p>
+                    </div>
+                    <form class="form-inline needs-validation" method="post" onsubmit="return submitEmail()">
+                        <div class="form-row">
+                            <div class="input-group"><input id="name" class="form-control" type="text" name="name"
+                                    placeholder="Name" required>
+                                <!-- <div class="invalid-feedback">Please enter a name</div> -->
+                            </div>
+                            <div class="input-group"><input id="email" class="form-control" type="email" name="email"
+                                    placeholder="Email" required>
+                                <!-- <div class="invalid-feedback">Please enter a valid email</div> -->
+                            </div>
+                            <div class="form-group"><button id="submitButton" class="btn btn-primary"
+                                    type="submit">Subscribe </button>
+                            </div>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</main>
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.9.3/firebase-firestore.js"></script>
+<script type="text/javascript" src="/themes/chunkyPoster/src/js/subscribe.js"></script>
+
+
+<script>
+
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+        apiKey: "AIzaSyAxTpAKeEIVAr6huUV_8oVZLlkK5u9hj84",
+        authDomain: "talkhoopsblog.firebaseapp.com",
+        databaseURL: "https://talkhoopsblog.firebaseio.com",
+        projectId: "talkhoopsblog",
+        storageBucket: "talkhoopsblog.appspot.com",
+        messagingSenderId: "726460588475",
+        appId: "1:726460588475:web:ac0edfacc854e3f594249e",
+        measurementId: "G-1LX93M3C4R"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig); 
+    firebase.analytics();
+
+    var db = firebase.firestore();
+
+    function submitEmail() {
+
+        //Change button display
+        var submitButton = document.getElementById('submitButton');
+        submitButton.innerHTML = "Subscribed!";
+        submitButton.style.borderStyle = "solid";
+        submitButton.style.borderColor = "lawngreen";
+
+
+
+        //Disable text fields for email and name
+        document.getElementById("name").disabled = true;
+        document.getElementById("email").disabled = true;
+
+        //Display thank you message for subscribing
+        var confirmationBlock = document.createElement("p");
+        confirmationBlock.innerHTML = "Thanks for subscribing! You should receive a welcome email shortly. Feel free to check out the rest of the blog!";
+        confirmationBlock.className = "text-center";
+        confirmationBlock.style.marginTop = "25px"
+
+        var container = document.getElementById("container");
+        container.appendChild(confirmationBlock);
+
+        //Store subscribers to firebase
+
+        var name = document.getElementById("name").value;
+        var email = document.getElementById("email").value;
+
+        db.collection("Subscribers").add({
+            Name: name,
+            Email: email
+        })
+            .then(function (docRef) {
+                console.log("Document written with ID: ", docRef.id);
+            })
+            .catch(function (error) {
+                console.error("Error adding document: ", error);
+                confirmationBlock.innerHTML = "Error adding document: " + error;
+            });
+
+
+
+
+        return false;
+    }
+
+</script>
+
+{{ end }}

@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sands talks Hoops"
+theme = "chunkyPoster"
+DefaultContentLanguage = "en"
+disableKinds = ["taxonomyTerm"]
+
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+
+
+  [params.social]
+    rss = true
+    email = "atsands55@gmail.com"
+    facebook = "https://https://www.facebook.com/anthony.t.sands.com"
+    twitter = "https://twitter.com/Sandzzzo"
+    linkedin = "https://www.linkedin.com/in/anthony-sands-381657127/"
+
+
+
+[params]
+  author = "Hugo Authors"
+  description = "Articles about the NBA, draft and G-League"
+  homepageImage = "/images/logo-02.png"
+  share = true
+  showLanguageSwitcher = false
+
+
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+

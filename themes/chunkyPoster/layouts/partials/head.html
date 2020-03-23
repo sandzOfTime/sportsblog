@@ -1,0 +1,123 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>{{ .Site.Title }}</title>
+<link rel="stylesheet" href="/themes/chunkyPoster/src/css/subscriptionStyle.css">
+<link href="https://fonts.googleapis.com/css?family=Sriracha&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lacquer&display=swap" rel="stylesheet">
+
+{{- if .Description -}}
+  <meta name="description" content="{{ .Description }}">
+{{- else if .Site.Params.description -}}
+  <meta name="description" content="{{ .Site.Params.description }}">
+{{- end -}}
+
+<meta name="author" content="{{ if .Params.authors }}{{ delimit .Params.authors ", " }}{{ else }}{{ .Site.Params.author }}{{ end }}">
+
+
+{{ if .Site.Params.prismJS.enable }}
+    {{ if .Site.Params.prismJS.theme }}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.17.1/themes/prism-{{ .Site.Params.prismJS.theme }}.min.css">
+    {{ else }}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.17.1/themes/prism.min.css">
+    {{ end }}
+{{ end }}
+    
+
+{{ with index .Site.Data "chunky-poster" }}
+    {{ range $vendor := .assets }}
+        {{ if $vendor.css }}
+            <link rel="stylesheet" href="{{ print "dist/" $vendor.css | relURL }}">
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+{{- with .OutputFormats.Get "RSS" }}
+  <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}">
+  <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}">
+{{- end -}}
+
+{{- template "_internal/opengraph.html" . -}}
+{{- template "_internal/google_news.html" . -}}
+{{- template "_internal/schema.html" . -}}
+{{- template "_internal/twitter_cards.html" . -}}
+<style>
+  .newsletter-subscribe {
+  color:#313437;
+  background-color:#fff;
+  padding:50px 0;
+}
+
+.newsletter-subscribe p {
+  color:#7d8285;
+  line-height:1.5;
+}
+
+.newsletter-subscribe h2 {
+  font-size:24px;
+  font-weight:bold;
+  margin-bottom:25px;
+  line-height:1.5;
+  padding-top:0;
+  margin-top:0;
+  color:inherit;
+}
+
+.newsletter-subscribe .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto 25px;
+}
+
+.newsletter-subscribe .intro p {
+  margin-bottom:35px;
+}
+
+.newsletter-subscribe form {
+  justify-content:center;
+}
+
+.newsletter-subscribe form .form-control {
+  background:#eff1f4;
+  border:none;
+  border-radius:3px;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+  text-indent:9px;
+  height:45px;
+  margin-right:10px;
+  min-width:250px;
+}
+
+.newsletter-subscribe form .btn {
+  padding:16px 32px;
+  border:none;
+  background:none;
+  box-shadow:none;
+  text-shadow:none;
+  opacity:0.9;
+  text-transform:uppercase;
+  font-weight:bold;
+  font-size:13px;
+  letter-spacing:0.4px;
+  line-height:1;
+}
+
+.newsletter-subscribe form .btn:hover {
+  opacity:1;
+}
+
+.newsletter-subscribe form .btn:active {
+  transform:translateY(1px);
+}
+
+.newsletter-subscribe form .btn-primary {
+  background-color:#055ada !important;
+  color:#fff;
+  outline:none !important;
+}
+
+
+
+</style>
