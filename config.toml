@@ -19,7 +19,7 @@ disableKinds = ["taxonomyTerm"]
   [params.social]
     rss = true
     email = "atsands55@gmail.com"
-    facebook = "https://https://www.facebook.com/anthony.t.sands.com"
+    facebook = "https://www.facebook.com/anthony.t.sands"
     twitter = "https://twitter.com/Sandzzzo"
     linkedin = "https://www.linkedin.com/in/anthony-sands-381657127/"
 
