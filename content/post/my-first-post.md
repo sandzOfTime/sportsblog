@@ -19,9 +19,9 @@ This wasn't meant to be some sort of inspirational post. However, long story sho
  Here's what you can expect:
  I'll be writing about the NBA to anybody who'll listen (or read, in this case). And also, because I'm an irrational Knicks fan I'll be discussing the NBA draft, considering we're almost always in the lottery. I also want to get into some G-league because there are a lot of hoopers in there that don't get nearly the exposure they deserve. More importantly, I look forward to having discussions where we all could appreciate, analyze and critque all aspects about the game we love. 
  
- If that stuff interests you, then subscribe. I'm not sure where this journey will take me but I'm hoping you all are along for the ride. 
+ If that stuff interests you, then subscribe. 
  
-I hope reading this encourages you to not ignore the things in life that you can't live without.
+And even if it doesnt, I hope reading this encourages you to not ignore the things in life that you can't live without.
 
  Much love,
  Sandzo
