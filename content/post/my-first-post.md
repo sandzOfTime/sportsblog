@@ -1,6 +1,6 @@
 ---
 title: "I'm starting a blog and here's why"
-date: 2020-03-22T15:55:16-05:00
+date: 2020-03-28T15:55:16-05:00
 images: ["/images/profilePic.jpg"]
 authors: ["Anthony Sands"]
 ---
