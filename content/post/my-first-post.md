@@ -16,7 +16,7 @@ From the first moment I picked up a basketball, I fell in love with the game. It
 
 This wasn't meant to be some sort of inspirational post. However, long story short, the game means a lot to me, so I'm hoping to use this platform to show that.
 
- Here's what you can expect:
+ **Here's what you can expect:**
 
  I'll be writing about the NBA to anybody who'll listen (or read, in this case). And also, because I'm an irrational Knicks fan, I'll be discussing the NBA draft, considering we're almost always in the lottery. I also want to get into the G-league because there are a lot of hoopers in there that don't get nearly the exposure they deserve. More importantly, I look forward to having discussions where we all could appreciate, analyze and critque all aspects about the game we love. 
  
