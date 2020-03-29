@@ -120,53 +120,61 @@
         measurementId: "G-1LX93M3C4R"
     };
     // Initialize Firebase
-    firebase.initializeApp(firebaseConfig); 
+    firebase.initializeApp(firebaseConfig);
     firebase.analytics();
 
     var db = firebase.firestore();
 
+    //Boolean variable used to determine if button was clicked
+    var isClicked = false;
+
+
     function submitEmail() {
 
-        //Change button display
-        var submitButton = document.getElementById('submitButton');
-        submitButton.innerHTML = "Subscribed!";
-        submitButton.style.borderStyle = "solid";
-        submitButton.style.borderColor = "lawngreen";
+
+        if (!isClicked) {
+
+            //Change button display
+            var submitButton = document.getElementById('submitButton');
+            submitButton.innerHTML = "Subscribed!";
+            submitButton.style.borderStyle = "solid";
+            submitButton.style.borderColor = "lawngreen";
 
 
 
-        //Disable text fields for email and name
-        document.getElementById("name").disabled = true;
-        document.getElementById("email").disabled = true;
+            //Disable text fields for email and name
+            document.getElementById("name").disabled = true;
+            document.getElementById("email").disabled = true;
 
-        //Display thank you message for subscribing
-        var confirmationBlock = document.createElement("p");
-        confirmationBlock.innerHTML = "Thanks for subscribing! You should receive a welcome email shortly. Feel free to check out the rest of the blog!";
-        confirmationBlock.className = "text-center";
-        confirmationBlock.style.marginTop = "25px"
+            //Display thank you message for subscribing
+            var confirmationBlock = document.createElement("p");
+            confirmationBlock.innerHTML = "Thanks for subscribing! You should receive a welcome email shortly. Feel free to check out the rest of the blog!";
+            confirmationBlock.className = "text-center";
+            confirmationBlock.style.marginTop = "25px"
 
-        var container = document.getElementById("container");
-        container.appendChild(confirmationBlock);
+            var container = document.getElementById("container");
+            container.appendChild(confirmationBlock);
 
-        //Store subscribers to firebase
+            //Store subscribers to firebase
 
-        var name = document.getElementById("name").value;
-        var email = document.getElementById("email").value;
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
 
-        db.collection("Subscribers").add({
-            Name: name,
-            Email: email
-        })
-            .then(function (docRef) {
-                console.log("Document written with ID: ", docRef.id);
+            db.collection("Subscribers").add({
+                Name: name,
+                Email: email
             })
-            .catch(function (error) {
-                console.error("Error adding document: ", error);
-                confirmationBlock.innerHTML = "Error adding document: " + error;
-            });
+                .then(function (docRef) {
+                    console.log("Document written with ID: ", docRef.id);
+                })
+                .catch(function (error) {
+                    console.error("Error adding document: ", error);
+                    confirmationBlock.innerHTML = "Error adding document: " + error;
+                });
 
 
-
+            isClicked = true;
+        }
 
         return false;
     }
