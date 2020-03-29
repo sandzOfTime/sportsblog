@@ -1,6 +1,6 @@
 ---
 name: Anthony Sands Jr
-images:
+images: ["anthony-sands.png"]
 twitter: 'Sandzzzo'
 ---
 
