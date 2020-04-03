@@ -5,7 +5,6 @@ theme = "chunkyPoster"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomyTerm"]
 
-disqusShortname = "sandstalkshoops-com"
 googleAnalytics = "UA-162511847-1"
 
 
