@@ -6,6 +6,7 @@ DefaultContentLanguage = "en"
 disableKinds = ["taxonomyTerm"]
 
 googleAnalytics = "UA-162511847-1"
+disqusShortname = "sandstalkshoops-com"
 
 
 
