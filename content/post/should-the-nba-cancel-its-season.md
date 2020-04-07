@@ -14,7 +14,7 @@ It's been 24 days (and counting) since the last NBA regular season games took pl
 
  Here's a few things to think about.
 
- ### How has the NBA handled a shortened season?
+### How has the NBA handled a shortened season?
 
  {{< figure src="https://wordpress.wbur.org/wp-content/uploads/2011/11/1119_oag_nba.jpg" >}}
 
@@ -25,7 +25,7 @@ It's been 24 days (and counting) since the last NBA regular season games took pl
 
 
 
- ### Playing without fans?
+### Playing without fans?
 
 {{< figure src="https://images.unsplash.com/photo-1574290139543-b3adb08494c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" >}}
 
