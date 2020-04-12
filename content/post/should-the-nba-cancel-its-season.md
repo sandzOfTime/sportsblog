@@ -3,6 +3,8 @@ title: "Should the NBA cancel its season?"
 date: 2020-04-06T15:56:19-05:00
 images: ["/images/empty-arena.jpg"]
 authors: ["Anthony Sands"]
+description: "Looking at whether or not the NBA should resume their season due to the delay caused by coronavirus"
+tags: ["nba"]
 ---
 
 
@@ -16,7 +18,7 @@ It's been 24 days (and counting) since the last NBA regular season games took pl
 
 ### How has the NBA handled a shortened season?
 
- {{< figure src="https://wordpress.wbur.org/wp-content/uploads/2011/11/1119_oag_nba.jpg" >}}
+ {{< figure src="https://wordpress.wbur.org/wp-content/uploads/2011/11/1119_oag_nba.jpg">}}
 
  One advantage that the league has in all of this is that it's dealt with a compromised season before. Most fans remember the recent lockout before the 2011-2012 season, which forced the season to be shortened to 66 games(instead of the usual 82). 
  And before that, there was also a lockout during the 1998-1999 season that saw teams only play 50 games. Both of those seasons went on as business as usual. You can make a case that the season's length doesn't matter to most fans, but there are also people in general that believe the season is too [long](https://www.google.com) in the first place (count me in that number). This could be the perfect opportunity for the NBA to finally address that issue. If they could somehow start the playoffs around August, that would push the start of next season to Christmas Day. Which would create a season similar to what happened in 2011. Or maybe they could go in an entirely different direction, and instead push the schedule back for good, so that it always begins in December and ends around August. This [idea](https://www.cbssports.com/nba/news/hawks-ceo-steve-koonin-proposes-to-start-nba-season-in-december-league-is-open-to-the-idea/) has been proposed before. Whatever they do decide, they have options. 
