@@ -1,12 +1,25 @@
 +++
 title = "About"
-description = "Blog for Hoop Junkies - NBA, NCAA, NBA Draft and GLeague"
+description = "Sands Talks Hoops"
 date = "2019-02-28"
-aliases = ["about-us","contact"]
+aliases = ["about-us","about-hugo","contact"]
+author = "Hugo Authors"
 +++
 
-Sands Talks Hoops is a sports blog for all guys and girls that love the game of basketball. More importantly, it's for those that follow the game at a high level. 
+Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Check out the first [post]("https://www.sandstalkshoops.com/post/should-the-nba-cancel-its-season/") for the inspiration behind this website!
+Hugo makes use of a variety of open source projects including:
 
+* https://github.com/russross/blackfriday
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
 
+Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+
+Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
