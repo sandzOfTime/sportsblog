@@ -1,6 +1,6 @@
 ---
 title: "Best Ball Brother? Breaking down Lamelo Ball"
-date: 2020-04-19T20:09:37-04:00
+date: 2020-04-20
 images: ["/images/LaMelo-Ball.jpg"]
 categories: []
 tags: ["nba", "scouting", "2020draft", "Lamelo Ball"]
