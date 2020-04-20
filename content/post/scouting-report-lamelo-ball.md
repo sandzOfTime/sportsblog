@@ -27,7 +27,7 @@ If it's one thing that Lamelo has in common with his older brother Lonzo (he act
 
 <br>
 
-For Lamelo, this is like clock-work. He averaged 6.8 assists per game in the NBL, which was rated second in the entire league. While most of these plays are flashy, it's the creativity that he uses that stands out the most. To be an elite passer at the next level, there needs to be a certain level of flair for the dramatics. And it also takes real precision to be able to squeeze the right passes in such tight spaces. Case in point, look at how crisp this behind the back bounce pass is,  and the gap that he squeezed it through after coming off the side PnR. 
+For Lamelo, this is like clock-work. He averaged 6.8 assists per game in the NBL, which was ranked second in the entire league. While most of these plays are flashy, it's the creativity that he uses that stands out the most. To be an elite passer at the next level, there needs to be a certain level of flair for the dramatics. And it also takes real precision to be able to squeeze the right passes in such tight spaces. Case in point, look at how crisp this behind the back bounce pass is,  and the gap that he squeezed it through after coming off the side PnR. 
 
 <br>
 
