@@ -1,12 +1,11 @@
 ---
 title: "Best Ball Brother? Breaking down Lamelo Ball"
-date: 2020-04-20T20:09:37-04:00
+date: 2020-04-19T20:09:37-04:00
 images: ["/images/LaMelo-Ball.jpg"]
 categories: []
 tags: ["nba", "scouting", "2020draft", "Lamelo Ball"]
 authors: ["Anthony Sands"]
 description: "Scouting one of the top prospects in the 2020 NBA draft in Lamelo Ball. Looking at strengths and weaknesses"
-draft : false
 ---
 
 Ever since the 2017 draft, when his older brother Lonzo got selected, Lamelo and the rest of the Ball family has been under a larger than life media microscope. This was mainly due to their outspoken father, Lavar. It seems that so much has changed since then (the rise and [fall](https://foxsportsradio.iheart.com/content/2019-07-17-lavar-balls-big-baller-brand-appears-to-heading-towards-bankruptcy/) of the  BBB, the Facebook [reality](https://www.facebook.com/ballinthefamily/) series, and Gelo behind [bars](https://www.washingtonpost.com/news/early-lead/wp/2017/11/07/liangelo-ball-and-two-other-ucla-players-reportedly-arrested-in-china-for-shoplifting/) etc.)
