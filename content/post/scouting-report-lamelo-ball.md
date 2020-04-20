@@ -3,7 +3,7 @@ title: "Best Ball Brother? Breaking down Lamelo Ball"
 date: 2020-04-15T20:09:37-04:00
 images: ["/images/LaMelo-Ball.jpg"]
 categories: []
-tags: ["#nba", "#scouting", "#2020draft", "#Lamelo Ball"]
+tags: ["nba", "scouting", "2020draft", "Lamelo Ball"]
 authors: ["Anthony Sands"]
 description: "Scouting one of the top prospects in the 2020 NBA draft in Lamelo Ball. Looking at strengths and weaknesses"
 draft : false
