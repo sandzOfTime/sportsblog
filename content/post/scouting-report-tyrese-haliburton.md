@@ -1,6 +1,6 @@
 ---
 title: "How good is Tyrese Haliburton?"
-date: 2020-11-05
+date: 2020-05-11
 images: ["/images/Tyrese-Haliburton.jpg"]
 categories: []
 tags: ["nba", "scouting", "2020draft", "Tyrese Haliburton"]
