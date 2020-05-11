@@ -5,7 +5,7 @@ images: ["/images/Tyrese-Haliburton.jpg"]
 categories: []
 tags: ["nba", "scouting", "2020draft", "Tyrese Haliburton"]
 authors: ["Anthony Sands"]
-draft: true
+draft: false
 ---
 The 2020 NBA draft is filled with a ton of dynamic guards.
 
