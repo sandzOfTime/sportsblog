@@ -5,7 +5,7 @@ images: ["/images/Tyrese-Haliburton.jpg"]
 categories: []
 tags: ["nba", "scouting", "2020draft", "Tyrese Haliburton"]
 authors: ["Anthony Sands"]
-draft: true
+draft: false
 ---
 The 2020 NBA draft is filled with a ton of dynamic guards.
 
@@ -18,7 +18,7 @@ After receiving only four [offers](https://www.theringer.com/2019/11/27/20984769
 But despite having an overall great profile, there are mixed feelings about him as a prospect/player. Depending on who's talking, many experts have him getting drafted anywhere from 3rd to 15th. I watched a few of his games to figure out why there are so many different opinions on him, and how good could he really be at the NBA. Here's what I saw:
 
 
-### He always makes the right play
+### He always finds the open man
 
 Recently I wrote about [Lamelo](https://www.sandstalkshoops.com/post/scouting-report-lamelo-ball/) and how I felt he is so good at reading and making the right plays. Haliburton in my eyes takes that to a next level. In the 3 games I watched of him, I can't recall one time during those games where he didn't try make the right play or read, even if it didn't end up in a made basket. He doesn't look teammates off (sometimes to a fault), will find the open man if he sees him and he rarely ever forces plays. In a lot of ways, he reminds me more of Lonzo Ball than his actual brother. Here's him finding an open teammate off the pick and roll.
 
@@ -41,11 +41,11 @@ It also speaks to some challenges he's gonna face at the next level in terms of 
 
 <br>
 
-{{< youtube id="hgaPZtizP-E?start=4883" autoplay="false" >}}
+{{< youtube id="TJb6FyHnzgc?start=2881" autoplay="false" >}}
 
 <br>
 
-In a game like this where they are down almost 20, it would be good to see him try to take command of that possession and make sure that they get a good shot rather than just giving it to the guy because he's open. On this Iowa State team, he's the clear cut best player. Although he isn't dominating the ball every time down the floor (he has only the 5th highest [usage](https://www.sports-reference.com/cbb/schools/iowa-state/2020.html) rate on the team), it would be good to see him taking control in situations like that.
+In a game like this where they are down almost 20, it would be good to see him try to take command of that possession and make sure that they get a good shot rather than just giving it to the guy because he's open. Is it a good, unselfish play? Sure. But it still feels like settling on his part. On this Iowa State team, he's the clear cut best player. Although he isn't dominating the ball every time down the floor (he has only the 5th highest [usage](https://www.sports-reference.com/cbb/schools/iowa-state/2020.html) rate on the team), it would be good to see him taking control in situations like that.
 
 
 ### He has an ugly form, but the shot goes in
@@ -86,7 +86,7 @@ I think it's two ways you can look at a play like this. On one hand, he probably
 
 <br>
 
-{{< youtube id="hgaPZtizP-E?start=961" autoplay="false" >}}
+{{< youtube id="hgaPZtizP-E?start=432" autoplay="false" >}}
 
 <br>
 
@@ -98,7 +98,7 @@ When Haliburton does decide to attack the rim, he's actually a solid finisher ar
 
 <br>
 
-{{< youtube id="hgaPZtizP-E?start=1935" autoplay="false" >}}
+{{< youtube id="TJb6FyHnzgc?start=2085" autoplay="false" >}}
 
 <br>
 
@@ -108,7 +108,7 @@ Haliburton does get all the way to the rim here, but settles for an off balance 
 
 ### What to expect in the NBA?
 
-At the end of the day, the very best point guards in the NBA today are risk takers and know not only when to create for others, they also know when they need to create for themselves. Great point guards are "engines" for their team's offense; and they can control the game by making plays consistently. As good as Haliburton is in many areas of the game, it's difficult seeing him be that type of guard because of his risk-free style of play. He's too unselfish for that. However, that doesn't mean he still can't be a really good pro. He has plenty of things going well for him (very good passer, active defender, makes his open shots etc). Even though I don't think he's a star guard in the making, he seems like the type of guy that could thrive alongside one if given the opportunity. Depending on what team drafts him, he could probably end up as one of the more safer picks in this draft. At the very least, whatever team drafts him is going to get a player that will no doubt help his team win games. As I said before, he reminds me a lot of Lonzo and I think he'll end up as that type of player (with better shooting probably). That may not be a star, but that's a great player to have for a really good team.
+At the end of the day, the very best point guards in the NBA today are risk takers and know not only when to create for others, they also know when they need to create for themselves. Great point guards are "engines" for their team's offense; and they can control the game by making plays consistently. As good as Haliburton is in many areas of the game, it's difficult seeing him be that type of guard because of his risk-free style of play and tendency to kill his dribble. However, that doesn't mean he still can't be a really good pro. He has plenty of things going well for him (very good passer, active defender, makes his open shots etc). Even though I don't think he's a star guard in the making, he seems like the type of guy that could thrive alongside one if given the opportunity. Depending on what team drafts him, he could probably end up as one of the more safer picks in this draft. At the very least, whatever team drafts him is going to get a player that will no doubt help his team win games. As I said before, he reminds me a lot of Lonzo and I think he'll end up as that type of player (with better shooting probably). That may not be a star, but that's a great player to have for a really good team.
 
 
 
