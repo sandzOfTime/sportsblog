@@ -20,7 +20,7 @@ But despite having an overall great profile, there are mixed feelings about him 
 
 ### He always finds the open man
 
-Recently I wrote about [Lamelo](https://www.sandstalkshoops.com/post/scouting-report-lamelo-ball/) and how I felt he is so good at reading and making the right plays. Haliburton in my eyes takes that to a next level. In most of the games I've watched of him, I can't recall one time during those games where he didn't try to make the right play or read, even if it didn't end up in a made basket. He doesn't look teammates off (sometimes to a fault), will find the open man if he sees him and he rarely ever forces plays. In a lot of ways, he reminds me more of Lonzo Ball than his actual brother. Here's him finding an open teammate off the pick and roll.
+Recently I wrote about [Lamelo](https://www.sandstalkshoops.com/post/scouting-report-lamelo-ball/) and how I felt he is so good at reading and making the right plays. Haliburton in my eyes takes that to a next level. In most of the games I've watched of him, I can't recall one time during those games where he didn't try to make the right play or read, even if it didn't end up in a made basket. He doesn't look teammates off (sometimes, I wish he would), will find the open man if he sees him and he rarely ever forces plays. In a lot of ways, he reminds me more of Lonzo Ball than his actual brother. Here's him finding an open teammate off the pick and roll.
 
 <br>
 
@@ -74,7 +74,7 @@ Here, the form doesn't really look the same as his regular set shots. He doesn't
 
 ### He's going to have scoring struggles
 
-In the last article, I [mentioned](https://www.sandstalkshoops.com/post/scouting-report-lamelo-ball/) how I felt Lamelo would have trouble scoring efficiently at the NBA level. Well, Lamelo might actually look like Kyrie compared to Haliburton. Don't get me wrong, Haliburton is an extremely efficient basketball player (63 [TS%](http://www.tankathon.com/players/tyrese-haliburton), which would be like first among guard prospects this year). That's mostly because he plays a mistake-free brand of basketball. He doesn't force bad shots, rarely ever turns over the basketball and always makes the "right play" (see above). With that being said, there are times when you watch him play and wonder if he chooses not to score or he just doesn't have the ability to as much as he would like to. Take this play for example.
+In the last article, I [mentioned](https://www.sandstalkshoops.com/post/scouting-report-lamelo-ball/) how I felt Lamelo would have trouble scoring efficiently at the NBA level. Well, Lamelo might actually look like Kyrie compared to Haliburton. Don't get me wrong, Haliburton is an extremely efficient basketball player (63 [TS%](http://www.tankathon.com/players/tyrese-haliburton), which would be like first among guard prospects this year). That's mostly because he plays a mistake-free brand of basketball. He doesn't force bad shots, rarely ever turns over the basketball and always makes the "right play" (see above). With that being said, there are times when you watch him play and wonder if he chooses not to score or he just doesn't have the ability to as much as people would like him to. Take this play for example.
 
 <br>
 
@@ -82,7 +82,7 @@ In the last article, I [mentioned](https://www.sandstalkshoops.com/post/scouting
 
 <br>
 
-I think it's two ways you can look at a play like this. On one hand, he probably picked up his dribble too quickly, and could have made a move to attack the big early once he got the switch. On the other hand, he received a soft trap that could have played into his thinking, to find the open man. Whatever the situation is, there were a lot of his possessions that ended up similar to this. 
+I think it's two ways you can look at a play like this. On one hand, he definitely picked up his dribble too quickly, and could have made a move to attack the big early once he got the switch. On the other hand, he received a soft trap that could have played into his thinking, to find the open man. Whatever the situation is, there were a lot of his possessions that ended up similar to this. 
 
 <br>
 
@@ -90,7 +90,7 @@ I think it's two ways you can look at a play like this. On one hand, he probably
 
 <br>
 
-Even against a matchup he should want (a big switched on him), he bails the defense out by picking up his dribble so quickly. It's good that he found his teammate posting up a smaller defender, but the shot was so bad of an attempt, you wonder if Haliburton was just better off keeping the ball.
+Even against a matchup he should want (a big switched on him), he bails the defense out by, once again, picking up his dribble so early. This seems to be a common theme with him that I have a problem with, and he does it even when it can lead to good looks. In this case, it's good that he found his teammate posting up a smaller defender, but the shot was so bad of an attempt, you wonder if Haliburton was just better off keeping the ball.
 
 
 
