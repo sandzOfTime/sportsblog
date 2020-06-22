@@ -94,6 +94,88 @@ Here Riller is attacking the rim with the intention to score. That's important. 
 
 <br>
 
-{{< youtube id="SzD5ThCBPIM" >}}
+{{< youtube id="lF7raPXJnIk" >}}
 
 <br>
+
+
+Riller isn't able to get all the way to the rim on this play, so it's tough to say that his intent was really to score. But the process is basically the same; be aggressive, draw in help defenders, then find a way to get the ball to the open man. By rejecting the screen and making an aggressive play to get to the basket, Riller drew in two defenders. After that, the only issue was picking the best way to get the ball to the open teammate (behind the back pass). These types of plays are the kinds that you wanna see more of when Riller gets to the next level.
+
+
+
+There is still room to improve though. The balance between being a scorer and a facilitator is still just a balance. And that doesn't mean that it will be equal on both sides. Riller still struggles sometimes with forcing plays instead of giving up the ball to generate an easier shot. One example is below.
+
+
+
+<br>
+
+{{< youtube id="LuzPxvA24N4" >}}
+
+<br>
+
+
+
+In fairness to him, Riller did end up drawing a blocking foul on this play. Despite that though, I felt that he could have gotten an open shot by kicking it to the strong-side corner. Plays like these could easily result in a charging call, or some sort of turnover at the next level. He's also prone to making careless passes and reads in general at times, as seen below.
+
+<br>
+
+{{< youtube id="xL13GULeenA" >}}
+
+<br>
+
+
+
+During his last season in college, Riller averaged 3.4 turnovers to go with his 4.2 assists, not a good ratio for an NBA point guard. To maximize his potential and be all that he can be, he's gonna have to find a way to limit some careless mistakes and turnovers and continue to grow in using his scoring ability to make the game easier for other players.
+
+
+
+
+### He plays lazy at times, but has tools to be a good defender
+
+Like most super talented scorers, Riller has trouble staying engaged defensively.  Part of the reason is probably the fact that he carries so much of the burden offensively, that he may not have enough energy to lock up on defense. Whatever it is, it's gonna be a problem at the next level if he doesn't address it. As good as he is on offense, he probably won't be a dominant scorer from day one. That means he's going to have to be a better defender to not only stay on the floor, but also to play in key minutes. It starts with his effort level. Riller sometimes defends like he's just going through the routine/motions. He isn't always in the proper stance, lazily bites at pump fakes and doesn't make an attempt to recover when dudes blow by him. Below you can see some examples of what I mean (via [Zach Milner]([https://twitter.com/ZachMilner13?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor](https://twitter.com/ZachMilner13?ref_src=twsrc^google|twcamp^serp|twgr^author)))
+
+
+
+<br>
+
+{{< youtube id="1u7-ZJcyL-E?start=84" >}}
+
+<br>
+
+Despite all of that, Riller has shown some very good flashes on that end to prove that he can be a good defender at the next level if he's locked in. Physically, he's very strong with quick hands. He also slides his feet very well when guarding on ball and has good timing on strips, deflections. Here is an example of that.
+
+
+
+<br>
+
+{{< youtube id="kn0g22V0VwA" >}}
+
+<br>
+
+
+You could argue whether that is a foul or not. But he displayed good lateral quickness to stay in front of his man, along with the right timing to strip the ball before he made his move. The no-look pass on the fast break was just the icing on the cake of a good defensive possession. 
+
+
+
+<br>
+
+{{< youtube id="zoUr1Mrwel8" >}}
+
+<br>
+
+
+This one above was probably the most impressive defensive play that I've seen from him, and it's what makes me a believer that he can be pretty good defensively in the NBA. He was able to evade both screens and the athleticism to grab the ball mid-air at its peak is amazing.  He basically read the play to perfection and that speaks to his IQ on that end of the floor.
+
+By no means, am I saying that he's a lock to be good defensively based on a few highlight plays. But, I do feel that these plays show someone who not only has the physical tools, but the mental capacity to be an effective defender consistently. The challenge for whatever team that picks him will be how to push the right buttons, so that his effort level stays consistent with what he's capable of doing.
+
+
+
+
+
+### What to expect in the NBA?
+
+If you take a look at some of the guards that have [matched](https://www.sports-reference.com/cbb/play-index/psl_finder.cgi?request=1&match=single&class_is_fr=Y&class_is_so=Y&class_is_jr=Y&class_is_sr=Y&pos_is_g=Y&games_type=A&qual=pts_per_g&c1stat=ts_pct&c1comp=gt&c1val=60&c2stat=usg_pct&c2comp=gt&c2val=30&c3stat=stl_pct&c3comp=gt&c3val=2&order_by=pts) or exceeded Grant Riller's efficiency and usage while in college, you'll see he's in the likes of some pretty good company (Damian Lillard, Stephen Curry, Ja Morant etc.) Is that saying he's likely to be as good as any of those players? No. There's probably a higher chance that he ends up as the other name on that list that didn't last long in the league(Jimmer). But context is important. I'm not saying Riller should go top 2. But for a guy this talented, anything less than the first round is an insult. In my opinion, he should be one of the first 14 names called on draft night. 
+
+As for what to expect, I think he'll be a really good scorer for any team from day one. He's too talented on that end of the floor for his strengths not to translate. If he doesn't improve much, I expect him to be a sixth man type of player, capable of carrying an offense in stretches and setting up teammates based on the amount of attention that he draws. His development into a bonafide starting point guard will depend on him continuing to improve his passing/decision making, committing to the defensive side of the ball more consistently and unlocking his insane shotmaking potential (taking more threes).
+
+Watching Riller at the collegiate level, I saw a guy that knew most nights that he was the clear cut best player on the floor. I think this played a part in how much effort he gave on a consistent basis. I'm excited to see how and if increased competition will affect his gameplay and if he can continue to improve once he steps foot on an NBA floor.
