@@ -5,7 +5,7 @@ images: ["/images/Grant-Riller.jpg"]
 categories: []
 tags: ["nba", "scouting", "2020draft", "Grant Riller"]
 authors: ["Anthony Sands"]
-draft: true
+draft: false
 ---
 With every incoming rookie class, there is always a player that has GM's around the league scratching their head, as to how they let him slide so far in the draft. Expect a lot of the same this year.
 <!--more--> 
