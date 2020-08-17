@@ -9,7 +9,7 @@ draft: false
 ---
 
 
-*This is Part 2 of my NBA playoff previews and predictions. Part 1 can be found [here](www.sandstalkshoops.com/post/2020-eastern-conf-playoff-preview/).*
+*This is Part 2 of my NBA playoff previews and predictions. Part 1 can be found [here](https://www.sandstalkshoops.com/post/2020-eastern-conf-playoff-preview/).*
 
 
 Let's look at the Western Conference.

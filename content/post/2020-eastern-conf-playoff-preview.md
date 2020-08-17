@@ -81,6 +81,6 @@ The matchup that everybody will be looking forward to of course is Warren vs Jim
 
 
 
-Thanks for reading! Comment below and let me know what you think! And be sure to check out Part 2 of this series, where I preview the [Western Conference](www.sandstalkshoops.com).
+Thanks for reading! Comment below and let me know what you think! And be sure to check out Part 2 of this series, where I preview the [Western Conference](https://www.sandstalkshoops.com/post/2020-western-conf-playoff-preview/).
 
 
