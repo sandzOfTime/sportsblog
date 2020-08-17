@@ -1,11 +1,11 @@
 ---
 title: "Bubble Bowl - Western Conference Playoff Preview (Part 2)"
-date: 2020-08-17T21:24:10-04:00
+date: 2020-08-17
 images: ["/images/west-conf.jpg"]
 categories: []
 tags: ["nba", "playoffs"]
 authors: ["Anthony Sands"]
-draft: true
+draft: false
 ---
 
 

@@ -5,7 +5,7 @@ images: ["/images/east-conf.jpg"]
 categories: []
 tags: ["nba", "playoffs"]
 authors: ["Anthony Sands"]
-draft: true
+draft: false
 ---
 
 After a lot of doubt about whether or not the NBA would return or not (including from [me](https://www.sandstalkshoops.com/post/should-the-nba-cancel-its-season/)), the league is finally back in action and we're getting ready for the playoffs. So far, the restart has been a success as we've seen a few surprises (Phoenix going 8-0, contenders looking vulnerable) as well as some emerging stars (TJ Warren and Michael Porter Jr just to name a few). 
